@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning JavaScript and React
+🚀 Aspiring Full Stack Developer | 🌱I'm currently learning JavaScript and React
 
 
 ## 🌐 Socials:
